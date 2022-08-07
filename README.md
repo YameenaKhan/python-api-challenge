@@ -1,2 +1,2 @@
 # python-api-challenge
-Repository containing solution to HW5
+Repository containing solution to HW6
